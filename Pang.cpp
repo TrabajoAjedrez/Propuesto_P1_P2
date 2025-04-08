@@ -5,6 +5,7 @@
 #include "mundo.h"
 #include <math.h>
 
+//Hola como vas
 mundo escena;
 
 //los callback, funciones que seran llamadas automaticamente por la glut
